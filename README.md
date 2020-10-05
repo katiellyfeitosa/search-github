@@ -29,7 +29,7 @@ cd search-github
 npm install
 ```
 
-### Executando: 
+### Executar: 
 
 ```
 ng serve --open
