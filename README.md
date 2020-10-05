@@ -26,7 +26,6 @@ Acessar a pasta search-github e instalar as dependencias:
 
 ```
 cd search-github
-```
 npm install
 ```
 
@@ -34,4 +33,5 @@ npm install
 
 ```
 ng serve --open
+
 ```
