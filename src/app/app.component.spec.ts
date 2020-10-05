@@ -26,10 +26,4 @@ describe('AppComponent', () => {
     expect(app.title).toEqual('search-github');
   });
 
-  it('should render title', () => {
-    const fixture = TestBed.createComponent(AppComponent);
-    fixture.detectChanges();
-    const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('search-github app is running!');
-  });
 });
