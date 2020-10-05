@@ -25,7 +25,7 @@ git clone https://github.com/katiellyfeitosa/search-github.git
 Acessar a pasta search-github e instalar as dependencias:
 
 ```
-cd taf-thf
+cd search-github
 ```
 npm install
 ```
@@ -33,7 +33,5 @@ npm install
 ### Executando 
 
 ```
-
 ng serve --open
-
 ```
