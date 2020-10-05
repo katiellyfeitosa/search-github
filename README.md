@@ -1,6 +1,6 @@
 # SearchGithub
 
-O SearchGithub é um projeto que possui como objetivo encontrar e acessar contas do GitHub. Projeto desenvolvido utilizando Angular. 
+O SearchGithub é um projeto que possui como objetivo encontrar e acessar contas do GitHub. Projeto desenvolvido utilizando o framework Angular. 
 
 ## Instalação
 
