@@ -6,7 +6,7 @@ O SearchGithub é um projeto que possui como objetivo encontrar e acessar contas
 
 ### Requisitos:
 
-[`Node.js LTS`](https://nodejs.org/en/) (currently):
+[`Node.js LTS`](https://nodejs.org/en/)
 
 [`Angular 10`](https://angular.io/):
 
