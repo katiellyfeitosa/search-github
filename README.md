@@ -14,7 +14,7 @@ O SearchGithub é um projeto que possui como objetivo encontrar e acessar contas
 npm install -g @angular/cli@10.1.0
 ```
 
-### Ação
+### Ação:
 
 Clonar o repositório:
 
@@ -29,7 +29,7 @@ cd search-github
 npm install
 ```
 
-### Executando 
+### Executando: 
 
 ```
 ng serve --open
